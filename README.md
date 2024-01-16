@@ -8,7 +8,7 @@ Prerequisites
     [Python.org](https://www.python.org/downloads/)
 - Install Pygame using your computer's command prompt ('pip install pygame')
     - Click the link for instructions on installing
-        [Pygame.org](https://linktodocumentation)
+        [Pygame](https://www.geeksforgeeks.org/install-pygame-in-macos/?ref=lbp)
 
 Running the Game
 - Download and save the the game onto your computer
